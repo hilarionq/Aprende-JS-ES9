@@ -1,0 +1,39 @@
+body {
+  background: #efefef;
+}
+
+.caja {
+  background: #fff;
+  border-style: solid;
+  border-color: #ccc;
+  border-width: 1px;
+  border-top: 0px solid;
+}
+
+.header {
+  padding: 8px;
+  border-bottom: solid 1px #eee;
+}
+
+.contenido {
+  padding: 8px;
+}
+
+.footer {
+  padding: 8px;
+  border-top: solid 1px #eee;
+}
+
+.primario {
+  background: #0090FF;
+  padding: 5px;
+  border: 0px;
+  color: #fff;
+}
+
+.secundario {
+  background: #CCC;
+  padding: 5px;
+  border: 0px;
+  color: #fff;
+}
