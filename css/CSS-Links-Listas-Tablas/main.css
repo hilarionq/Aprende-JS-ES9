@@ -28,3 +28,15 @@ a:active {
   color: black;
 }
 
+ul {
+  list-style-type: none;
+  background-color: #fff;
+  border: solid 1px #ddd;
+  border-radius: 4px;
+  padding-left: 0px;
+}
+
+li {
+  border-bottom: solid 1px #ddd;
+  padding: 15px;
+}
